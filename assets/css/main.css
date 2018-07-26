@@ -2429,3 +2429,9 @@ input, select, textarea {
 					}
 
 	}
+
+/* zot.png 8? */
+.image_me {
+	height: 50%;
+	width: 50%;
+}
